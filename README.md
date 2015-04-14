@@ -1,9 +1,9 @@
 # DribSearch
 android search to line anim
 
-dribbble 上有许多创意的效果 这个控件的效果就是dribble上的一个实现 地址在这里
+dribbble 上有许多创意的效果 这个控件的效果就是dribble上的一个实现 地址在[这里][3]
 
-gist之前也有人贴出android 5.0的实现方式，解析矢量图然后通过path动画的实现， 地址在这里，
+gist之前也有人贴出android 5.0的实现方式，解析矢量图然后通过path动画的实现， 地址在[这里][2]，
 当然5.0以下肯定也是可以， 这个控件就是在2.3+ 的实现方式
 
 
@@ -35,4 +35,5 @@ dribSearchView.changeSearch();
 ```
 
 [1]: https://raw.githubusercontent.com/liuchenx/DribSearch/master/art/demo.gif
-
+[2]: https://gist.github.com/nickbutcher/b3962f0d14913e9746f2
+[3]: https://dribbble.com/shots/1945376-Search
